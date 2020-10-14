@@ -1,0 +1,4 @@
+Git Handbook (~10 min read) - https://guides.github.com/introduction/git-handbook/
+Interactive Git Cheat-Sheet - https://ndpsoftware.com/git-cheatsheet.html
+
+"Git [command name] --help" in the terminal to bring up man pages!
